@@ -16,7 +16,7 @@ into speech.
 alerts. So for this, we have embedded a microphone sensor in the glove that will respond only if  his name is called or there is 
 sudden change in the amplitude of sound. This is done using sound recognition API of Google. This way we can alert them about any 
 exigency around them. 
-![alt text](/home/bhawana/Downloads/20181028_050413.jpg)
+![alt text](https://github.com/sona-19/whack/blob/master/THE%20HAND/Hand.jpg)
 
 NOVELTIES
 
