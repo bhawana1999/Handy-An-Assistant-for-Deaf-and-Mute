@@ -1,4 +1,4 @@
-# whack
+# HANDY: An Assistant for Deaf and Mute
 
 THE HAND
 About nine million people in the world are considered to be deaf or dumb or both. Communications between deaf-dumb and a normal 
@@ -24,3 +24,5 @@ NOVELTIES
 2. Much better Precision than flex sensor
 3. Alerts in case of any emergency
 4. Potentiometers are more economical than flex sensor
+
+[Video Link](https://youtu.be/WRpJcTrspI8)
