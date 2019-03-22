@@ -26,4 +26,7 @@ NOVELTIES
 4. Potentiometers are more economical than flex sensor
 
 [Video Demonstration for Sign to Speech](https://www.youtube.com/watch?v=2-FpMcipJoo)
+
+
+
 [Video Demonstration of Speech recognition](https://youtu.be/WRpJcTrspI8)
